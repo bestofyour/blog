@@ -1,0 +1,1 @@
+hugo new posts/first-post.md
